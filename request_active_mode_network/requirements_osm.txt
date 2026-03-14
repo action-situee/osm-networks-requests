@@ -1,6 +1,3 @@
-# Minimal tested environment for:
-# Notebook/Step 0/0_1_Load_osm_260313_simplified_core.py
-#
 # Tested with Python 3.11.
 # Includes:
 # - OSM download/geocoding

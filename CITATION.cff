@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite it using the metadata from this file.
+  This work was developed within the Marchabilité et Cyclabilité project,
+  funded partially  the État de Genève.
+title: OSM Networks Requests
+type: software
+authors:
+  - family-names: Schultheiss
+    given-names: Marc-Edouard
+    affiliation: Bureau Action Située
+abstract: >-
+  Python scripts for extracting OpenStreetMap data for active mobility network
+  and parking analysis in GIS workflows. The software was developed by
+  Marc-Edouard Schultheiss at Bureau Action Située within the Marchabilité et
+  Cyclabilité project, funded partially by the État de Genève.
+license: Apache-2.0
+repository-code: "https://github.com/action-situee/osm-networks-requests/"
+url: "https://github.com/action-situee/osm-networks-requests/"
+keywords:
+  - OpenStreetMap
+  - walkability
+  - cyclability
+  - active mobility
+  - parking
+  - GIS
+  - Python
